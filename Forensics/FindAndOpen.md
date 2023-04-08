@@ -1,5 +1,5 @@
-# Challenge: FindAndOPen
-# Points: 200
+# Challenge: FindAndOpen
+Points: 200
 
 # Solution: 
 
