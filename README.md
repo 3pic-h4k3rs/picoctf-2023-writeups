@@ -3,10 +3,10 @@ writeups for picoctf 2023 by the archive team
 
 We got like 56th with a score of 5400 in the U.S for our first ever picoCTF
 
-https://user-images.githubusercontent.com/128765475/230695694-77d4ada4-b1c2-4eb1-8b13-72c9d8b9d14b.png
-
+![Screenshot from 2023-04-07 20-36-23](https://user-images.githubusercontent.com/128765475/230697001-1225c250-82d0-4c50-af83-5991a7fb5dfd.png)
 
 Team: ArcH1ve3
 
 This is mostly for just fun and for a learning experience
 
+We hit a massive brick wall at the end though. : ( 
